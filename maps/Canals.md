@@ -22,7 +22,7 @@
 
 ## Review
 
-Undoubtedly the biggest Red Eclipse arena to date, Canals has four large bases which connect together in the center of the map. A dried-out underground tunnel system provides a fleeting escape from the ongoing weapon fire above, but don't even think about stopping to admire the scenery - there's frags to be made.
+Undoubtedly the biggest Red Eclipse arena to date, Canals has four large bases which connect together in the center of the map. A dried-out underground tunnel system provides a fleeting escape from the ongoing weapon fire above, but don't even think about stopping to admire the scenery - there are frags to be made.
 
 This map is no longer included with the game. (Removed in 1.5.8)
 
