@@ -26,7 +26,7 @@ This map is no longer included with the game. (Removed in 1.4.0)
 
 ## Notes & Strategies
 
-- Due to less spawn weapons, the classic mutator is not recommend.
+- Due to fewer spawn weapons, the classic mutator is not recommended on this map.
 
 ## Spawn Register
 
