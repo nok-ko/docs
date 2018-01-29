@@ -26,7 +26,7 @@ This map is no longer included with the game. (Removed in 1.3.0)
 
 ## Notes & Strategies
 
-- As the name implicit it's a campaign map and as that a singe player map and not create for multi player matches.
+- As the name implies, this is a a single-player campaign map and is not intended for multi-player matches.
 
 ## Spawn Register
 
