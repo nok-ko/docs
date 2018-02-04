@@ -26,7 +26,7 @@ This map is no longer included with the game. (Removed in 1.5.0)
 
 ## Notes & Strategies
 
-- Be careful when you slide and jump, you can fell of easily.
+- Be careful when you slide and jump, as you can fall off easily.
 
 ## Spawn Register
 
